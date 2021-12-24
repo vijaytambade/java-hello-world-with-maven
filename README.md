@@ -246,6 +246,7 @@ Here’s the completed `pom.xml` file:
 ```
 
 ### Run project
+	new linw
 ---
 + To run this project run the following command.
 
